@@ -9,13 +9,13 @@
 
 - 🌱 Currently sharpening my Web Development skills
 
-- ✌ Trying to enter open source world
+- ✌ Trying to enter the world of open source
 
 - 📫 You can reach me at suyashvikramsingh2002@gmail.com
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me at:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/suyashvsingh/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
