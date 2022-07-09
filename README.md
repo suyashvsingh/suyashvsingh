@@ -45,3 +45,7 @@
 </p>
 
 <br>
+
+<h2 align="left">🎵: </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312wxueq34d42wyrbgrvwjwnsuly&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
