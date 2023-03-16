@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Myself Suyash Vikram Singh</h1>
-<h3 align="center">From Indian Institue of Information Technology, Gwalior (2020-25)</h3>
+<h1 align="center">Hi I'm, Myself Suyash Vikram Singh</h1>
+<h3 align="center">Indian Institue of Information Technology, Gwalior (2020-25)</h3>
 
 <br>
 <br>
@@ -12,6 +12,8 @@
 - ✌ Versed with Web Development, Docker and Kubernetes
 
 - 📫 You can reach me at suyashvikramsingh2002@gmail.com
+
+- 📌 See pinned repos for some of my best works
 
 <br>
 
