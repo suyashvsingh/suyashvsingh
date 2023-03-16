@@ -7,9 +7,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 
-- 🌱 Currently sharpening my Web Development skills
+- 🌱 Currently into Cloud Native
 
-- ✌ Trying to enter the world of open source
+- ✌ Versed with Web Development, Docker and Kubernetes
 
 - 📫 You can reach me at suyashvikramsingh2002@gmail.com
 
