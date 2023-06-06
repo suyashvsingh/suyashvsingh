@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm, Myself Suyash Vikram Singh</h1>
-<h3 align="center">Indian Institue of Information Technology, Gwalior (2020-25)</h3>
+<h3 align="center">Indian Institute of Information Technology, Gwalior (2020-25)</h3>
 
 <br>
 <br>
