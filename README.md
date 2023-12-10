@@ -17,10 +17,10 @@
 
 ## 🛠️ Skills
 
-- **Languages:** C, C++, JavaScript, TypeScript
-- **Web Development:** HTML5, CSS3, React, Next.js, Tailwind CSS
-- **Containers & Orchestration:** Docker, Kubernetes
-- **Cloud Platforms:** Linode
+- **Languages:** C++, JavaScript
+- **Web Development:** HTML5, CSS3, Next.js, Tailwind CSS
+- **Cloud Native:** Docker, Kubernetes, GitHub Actions
+- **Cloud Platforms:** AWS
 - **Operating Systems:** Linux
 
 ---
