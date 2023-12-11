@@ -19,7 +19,7 @@
 
 - **Languages:** C++, JavaScript
 - **Web Development:** HTML5, CSS3, Next.js, Tailwind CSS
-- **Cloud Native:** Docker, Kubernetes, GitHub Actions
+- **Cloud Native:** Docker, Kubernetes, GitHub Actions, Terraform
 - **Cloud Platforms:** AWS
 - **Operating Systems:** Linux
 
