@@ -27,7 +27,7 @@
 
 ## 📌 Pinned Repositories
 
-- [RCE70](https://github.com/suyashvsingh/rce70) - Remote code executor
+- [RCE70](https://github.com/suyashvsingh/rce70-client) - Remote code executor
 - [Pixify](https://github.com/suyashvsingh/pixify) - Image sharing app
 - [NOMA-ML-Spectrum-Detection-CIoT](https://github.com/suyashvsingh/NOMA-ML-Spectrum-Detection-CIoT) - Feature-based spectrum sensing in NOMA-based Cognitive IoT network
 
