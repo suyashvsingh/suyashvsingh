@@ -17,9 +17,9 @@
 
 ## 🛠️ Skills
 
-- **Languages:** C++, JavaScript
+- **Languages:** C++, TypeScript
 - **Web Development:** HTML5, CSS3, Next.js, Tailwind CSS
-- **Cloud Native:** Docker, Kubernetes, GitHub Actions, Terraform
+- **Cloud Native:** Docker, Kubernetes, Ansible, Terraform
 - **Cloud Platforms:** AWS
 - **Operating Systems:** Linux
 
