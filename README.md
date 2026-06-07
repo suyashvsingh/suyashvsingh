@@ -27,7 +27,7 @@
 
 ## Pinned Repositories
 
-- [Pixify](https://github.com/suyashvsingh/QUERYGEN) - A natural language to SQL converter using GPT-4o-mini and semantic search
+- [QUERYGEN](https://github.com/suyashvsingh/QUERYGEN) - A natural language to SQL converter using GPT-4o-mini and semantic search
 - [RCE70](https://github.com/suyashvsingh/rce70-next) - Remote code executor
 - [Pixify](https://github.com/suyashvsingh/Pixify) - Image sharing app
 
